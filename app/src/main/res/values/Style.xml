@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button">
+        <item name="android:layout_marginTop">25dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+
+        <item name="backgroundTint">@color/grey</item>
+
+
+    </style>
+    <style name="button1">
+        <item name="android:layout_marginTop">25dp</item>
+
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="backgroundColor">@color/green</item>
+        <item name="android:gravity">center</item>
+
+
+
+    </style>
+    <style name="menu">
+        <item name="iconSize">26dp</item>
+
+    </style>
+    <style name="icon">
+        <item name="android:layout_marginLeft">30dp</item>
+
+    </style>
+    <style name="con">
+        <item name="android:textSize">35dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Contacts</item>
+    </style>
+    <style name="res">
+        <item name="android:textSize">35dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">Recents</item>
+    </style>
+    <style name="user">
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <style name="white">
+        <item name="backgroundTint">@color/white </item>
+        <item name="android:textColor">@color/blue </item>
+    </style>
+
+</resources>

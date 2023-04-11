@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/appel"
+        android:icon="@drawable/baseline_phone_enabled_24"
+        android:title="Appel" />
+    <item
+        android:id="@+id/message"
+        android:icon="@drawable/baseline_phone_enabled_24"
+        android:title="Envoi SMS" />
+    <item
+        android:id="@+id/delete"
+        android:title="Supprimer" />
+    <item
+        android:id="@+id/update"
+        android:title="Modifier" />
+    <item
+        android:id="@+id/share"
+        android:title="Partager" />
+</menu>

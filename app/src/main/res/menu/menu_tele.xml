@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Favories"
+        android:id="@+id/favories"
+        android:icon="@drawable/stars"
+        />
+    <item android:title="Recents"
+        android:icon="@drawable/time"
+        android:id="@+id/recents"/>
+    <item android:title="Keypad"
+        android:icon="@drawable/phone"
+        android:id="@+id/keypad"/>
+    <item android:title="Conatcts"
+        android:icon="@drawable/trueone"
+        android:id="@+id/contacts"/>
+
+</menu>
